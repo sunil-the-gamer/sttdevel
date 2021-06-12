@@ -47,8 +47,8 @@ draw_cb (GtkWidget *widget,
          gpointer   data)
 {
   cairo_set_source_surface (cr, surface, 0, 0);
-  //cairo_paint (cr);
-  //
+  cairo_paint (cr);
+  
   printf("%s\n", __func__);
   return FALSE;
 }
