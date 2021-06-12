@@ -2,6 +2,6 @@
 STT Devel
 
 
-Install GTK libraries
+Install GTK libraries on Ubuntu
 ###############################################################################
-TODO: Need to add commands to install GTK
+sudo apt-get install libgtk-3-dev
