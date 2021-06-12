@@ -1,0 +1,2 @@
+g++ -o 1_app 1.cpp -lgraph
+g++ -o 2_app 2.cpp -lgraph
